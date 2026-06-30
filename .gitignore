@@ -28,3 +28,23 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+*.idea
+._.git
+._.gitignore
+._Learn Java.iml
+._src
+src/._chialayphannguynphandu.java
+src/._chiatao.java
+src/._congtru.java
+src/._Main.java
+src/._nghichdao.java
+src/._phepcanbac2.java
+src/._phepchia.java
+src/._phepcong.java
+src/._phepluythua.java
+src/._phepnhan.java
+src/._pheptru.java
+src/._timchuso.java
+src/._tinhgiatri.java
+src/._tinhgiatri2.java
+src/._tinhtongchuso.java
